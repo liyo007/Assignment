@@ -40,7 +40,7 @@ header{
     justify-content: space-evenly;
     align-items: center;
  
-    z-index: 0;
+    z-index: 1000;
 
 
 }
